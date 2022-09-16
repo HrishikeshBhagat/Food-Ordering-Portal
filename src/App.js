@@ -10,8 +10,6 @@ import HomeCardTwo from "./components/HomeCardTwo";
 const App = () => {
   return (
     <>
-      {/* <Navbar /> */}
-      {/* <CartHome /> */}
       <Routes>
         <Route path="/" element={<CartHome />} />
         <Route path="HomeCard" element={<HomeCard />} />
