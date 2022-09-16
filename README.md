@@ -1,3 +1,12 @@
+# CAPSTONE 2 PROJECT
+# Food Ordering Portal
+a Food Ordering Portal where you can pick your favourite food items and it to cart .
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
